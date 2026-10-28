@@ -1,4 +1,7 @@
 # Making Pottery
+
+[Demo video] https://youtu.be/mS_YDPUMVOs
+
 - A 3D-printed container("the pottery") has two photoresistors built into its sides. 
 - Your hands change how much light reaches each sensor. 
 - An ESP32 reads the sensors and sends the values to the game, shows a clay pot turning on a pottery wheel and shapes it as you move.
